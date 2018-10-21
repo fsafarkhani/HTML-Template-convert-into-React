@@ -50,7 +50,7 @@ export default class Header extends Component {
                       <a className="dropdown-item" href="/career">Career Oprtunity</a>
                       <a className="dropdown-item" href="/team">Meet Our Team</a>
                       <a className="dropdown-item" href="/faq">FAQ</a>
-                      <a className="dropdown-item" href="testimonials.html">Testimonials</a>
+                      <a className="dropdown-item" href="/testimonials">Testimonials</a>
                     </div>
                   </li>
                   <li className="nav-item"><a className="nav-link smooth-scroll" href="services.html">Services</a></li> 
