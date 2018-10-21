@@ -47,9 +47,9 @@ export default class Header extends Component {
                     <a className="nav-link dropdown-toggle smooth-scroll" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a> 
                     <div className="dropdown-menu dropdown-cust" aria-labelledby="navbarDropdownMenuLink">
                       <a className="dropdown-item" href="/about">About Us</a>
-                      <a className="dropdown-item" href="careers.html">Career Oprtunity</a>
-                      <a className="dropdown-item" href="team.html">Meet Our Team</a>
-                      <a className="dropdown-item" href="faq.html">FAQ</a>
+                      <a className="dropdown-item" href="/career">Career Oprtunity</a>
+                      <a className="dropdown-item" href="/team">Meet Our Team</a>
+                      <a className="dropdown-item" href="/faq">FAQ</a>
                       <a className="dropdown-item" href="testimonials.html">Testimonials</a>
                     </div>
                   </li>
