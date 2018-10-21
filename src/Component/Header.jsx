@@ -42,11 +42,11 @@ export default class Header extends Component {
               </button>  
               <div className="collapse navbar-collapse" id="navbarResponsive">
                 <ul className="navbar-nav ml-auto">
-                  <li className="nav-item"><a className="nav-link smooth-scroll" href="index.html">Home</a></li>
+                  <li className="nav-item"><a className="nav-link smooth-scroll" href="/">Home</a></li>
                   <li className="nav-item dropdown">
                     <a className="nav-link dropdown-toggle smooth-scroll" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a> 
                     <div className="dropdown-menu dropdown-cust" aria-labelledby="navbarDropdownMenuLink">
-                      <a className="dropdown-item" href="about.html">About Us</a>
+                      <a className="dropdown-item" href="/about">About Us</a>
                       <a className="dropdown-item" href="careers.html">Career Oprtunity</a>
                       <a className="dropdown-item" href="team.html">Meet Our Team</a>
                       <a className="dropdown-item" href="faq.html">FAQ</a>
