@@ -46,14 +46,14 @@ export default class Header extends Component {
                   <li className="nav-item dropdown">
                     <a className="nav-link dropdown-toggle smooth-scroll" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a> 
                     <div className="dropdown-menu dropdown-cust" aria-labelledby="navbarDropdownMenuLink">
-                      <a className="dropdown-item" href="/about">About Us</a>
-                      <a className="dropdown-item" href="/career">Career Oprtunity</a>
-                      <a className="dropdown-item" href="/team">Meet Our Team</a>
-                      <a className="dropdown-item" href="/faq">FAQ</a>
-                      <a className="dropdown-item" href="/testimonials">Testimonials</a>
+                      <a className="dropdown-item" href="/About">About Us</a>
+                      <a className="dropdown-item" href="/Career">Career Oprtunity</a>
+                      <a className="dropdown-item" href="/Team">Meet Our Team</a>
+                      <a className="dropdown-item" href="/Faq">FAQ</a>
+                      <a className="dropdown-item" href="/Testimonials">Testimonials</a>
                     </div>
                   </li>
-                  <li className="nav-item"><a className="nav-link smooth-scroll" href="services.html">Services</a></li> 
+                  <li className="nav-item"><a className="nav-link smooth-scroll" href="/services">Services</a></li> 
                   <li className="nav-item dropdown">
                     <a className="nav-link dropdown-toggle smooth-scroll" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admin Panel</a> 
                     <div className="dropdown-menu dropdown-cust" aria-labelledby="navbarDropdownMenuLink"> 
@@ -69,13 +69,13 @@ export default class Header extends Component {
                   <li className="nav-item dropdown">
                     <a className="nav-link dropdown-toggle smooth-scroll" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a> 
                     <div className="dropdown-menu dropdown-cust" aria-labelledby="navbarDropdownMenuLink">
-                      <a className="dropdown-item" href="news-list.html">News list layouts</a>
-                      <a className="dropdown-item" href="news-grid.html">News grid layouts</a>
-                      <a className="dropdown-item" href="news-details.html">News Details</a> 
-                      <a className="dropdown-item" href="project.html">Project</a>
-                      <a className="dropdown-item" href="contact.html">Contact Us</a>
-                      <a className="dropdown-item" href="comming-soon.html">Comming Soon</a>
-                      <a className="dropdown-item" href="pricing.html">Pricing Tables</a>
+                      <a className="dropdown-item" href="/List">News list layouts</a>
+                      <a className="dropdown-item" href="/Grid">News grid layouts</a>
+                      <a className="dropdown-item" href="/Detail">News Details</a> 
+                      <a className="dropdown-item" href="/Project">Project</a>
+                      <a className="dropdown-item" href="/ContactUS">Contact Us</a>
+                      <a className="dropdown-item" href="/Comming">Comming Soon</a>
+                      <a className="dropdown-item" href="/Pricing">Pricing Tables</a>
                       <a className="dropdown-item" href="admin/404.html">404</a>
                     </div>
                   </li>
