@@ -72,12 +72,12 @@ export default class Header extends Component {
                     <div className="dropdown-menu dropdown-cust" aria-labelledby="navbarDropdownMenuLink">
                       <a className="dropdown-item" href="/List">News list layouts</a>
                       <a className="dropdown-item" href="/Grid">News grid layouts</a>
-                      <a className="dropdown-item" href="/Detail">News Details</a> 
+                      <a className="dropdown-item" href="/PagesDetail">News Details</a> 
                       <a className="dropdown-item" href="/Project">Project</a>
                       <a className="dropdown-item" href="/ContactUS">Contact Us</a>
-                      <a className="dropdown-item" href="/Comming">Comming Soon</a>
+                      {/* <a className="dropdown-item" href="/Comming">Comming Soon</a> */}
                       <a className="dropdown-item" href="/Pricing">Pricing Tables</a>
-                      <a className="dropdown-item" href="admin/404.html">404</a>
+                      {/* <a className="dropdown-item" href="admin/404.html">404</a> */}
                     </div>
                   </li>
                   <li className="nav-item dropdown">
@@ -85,11 +85,11 @@ export default class Header extends Component {
                     <div className="dropdown-menu dropdown-cust mega-menu" aria-labelledby="navbarDropdownMenuLink">
                       <div className="row">
                         <div className="col-md-5">
-                          <a className="dropdown-item" href="shop.html">Shop Detail</a>
-                          <a className="dropdown-item" href="single-product.html">Single Product</a>
-                          <a className="dropdown-item" href="cart.html">Cart</a>
-                          <a className="dropdown-item" href="checkout.html">Checkout</a>
-                          <a className="dropdown-item" href="myaccount.html">Myaccount</a>
+                          <a className="dropdown-item" href="/ShopDetail">Shop Detail</a>
+                          <a className="dropdown-item" href="/Product">Single Product</a>
+                          <a className="dropdown-item" href="/Cart">Cart</a>
+                          <a className="dropdown-item" href="/Checkout">Checkout</a>
+                          <a className="dropdown-item" href="/Account">Myaccount</a>
                         </div>
                         <div className="col-md-7 mega-menu-img m-auto text-center pl-0">
                           <a href="#"><img src="img/offer_icon.png" alt className="img-fluid" /></a>

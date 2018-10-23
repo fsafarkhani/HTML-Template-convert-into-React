@@ -11,6 +11,18 @@ import Careers from './Page/Careers';
 import Faq from './Page/Faq';
 import Team from './Page/Team';
 import Testimonials from './Page/Testimonials';
+import ShopDetail from './Page/ShopDetail';
+import Account from './Page/Account';
+import Product from './Page/Product';
+import Cart from './Page/Cart';
+import Checkout from './Page/Checkout';
+import ContactUS from './Page/ContactUS';
+import List from './Page/List';
+import Grid from './Page/Grid';
+import PagesDetail from './Page/PagesDetail';
+import Project from './Page/Project';
+import Pricing from './Page/Pricing';
+
 
 
 class App extends Component {
@@ -29,6 +41,19 @@ class App extends Component {
               <Route path="/Faq" component={Faq} />
               <Route path="/Team" component={Team} />
               <Route path="/Testimonials" component={Testimonials} />
+              <Route path="/ShopDetail" component={ShopDetail} />
+              <Route path="/Account" component={Account} />
+              <Route path="/Cart" component={Cart} />
+              <Route path="/Checkout" component={Checkout} /> 
+              <Route path="/Product" component={Product} /> 
+              <Route path="/ContactUS" component={ContactUS} /> 
+              <Route path="/List" component={List} /> 
+              <Route path="/Grid" component={Grid} /> 
+              <Route path="/PagesDetail" component={PagesDetail} /> 
+              <Route path="/Project" component={Project} /> 
+              <Route path="/Pricing" component={Pricing} /> 
+
+
 
             </switch>
             <Footer></Footer>
