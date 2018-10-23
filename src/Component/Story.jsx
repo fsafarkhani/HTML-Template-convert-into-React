@@ -25,7 +25,7 @@ export default class Story extends Component {
                   <div className="heading-border-light" /> 
                   <p>Everyone defines success differently – as much as there are people, there are different opinions. Number one in our priority list is the success of our students, alumni and their employers. We work hard in the name of the success of our alumni – being among the best and holding the high employment rate. Many desktop publishing packages and web page editors now use Lorem Ipsum.. </p>
                   <p>You can find some thoughts on success from our students and alumni here – every story is unique, but this is what success is. Everybody sees it differently. Many desktop publishing packages and web page editors now use Lorem Ipsum.</p>
-                  <p className="text-right" style={{fontStyle: 'italic', fontWeight: 700}}><a href="#">Businessbox</a></p>
+                  <p className="text-right" style={{fontStyle: 'italic', fontWeight: 700}}><a href="#">Pinnecs</a></p>
                   <div className="title-but"><button className="btn btn-general btn-green" role="button">Read More</button></div>
                 </div>
               </div>

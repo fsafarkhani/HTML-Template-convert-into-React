@@ -12,10 +12,10 @@ export default class Header extends Component {
                   <div className="col-md-7">
                     <ul className="list-inline top-contacts">
                       <li>
-                        <i className="fa fa-envelope" /> Email: <a href="mailto:info@themeborn.com">info@themeborn.com</a>
+                        <i className="fa fa-envelope" /> Email: <a href="mailto:info@Pinnecs.com">info@Pinnecs.com</a>
                       </li>
                       <li>
-                        <i className="fa fa-phone" /> Hotline: (1) 111 222 33
+                        <i className="fa fa-phone" /> Tel:+964(0)7507512673 -7511048923
                       </li>
                     </ul>
                   </div> 
@@ -114,7 +114,7 @@ export default class Header extends Component {
                             <div className="col-md-9">
                               <ul className="list-inline top-contacts">
                                 <li>
-                                  <i className="fa fa-envelope" /> Email: <a href="mailto:info@htmlstream.com">info@htmlstream.com</a>
+                                  <i className="fa fa-envelope" /> Email: <a href="mailto:info@Pinnecs.com">info@Pinnecs.com</a>
                                 </li>
                                 <li>
                                   <i className="fa fa-phone" /> Hotline: (1) 396 4587 99

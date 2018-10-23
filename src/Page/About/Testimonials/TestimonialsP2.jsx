@@ -13,7 +13,7 @@ export default class TestimonialsP2 extends Component {
           <h5>Leesa len</h5>
           <h6>DSS CEO &amp; Cofounder</h6>
           <i className="fa fa-quote-left" />
-          <p>The Businessbox service - it helps fill our Business, and increase our show up rate every single time.</p>
+          <p>The Pinnecs service - it helps fill our Business, and increase our show up rate every single time.</p>
         </div>
       </div>
       <div className="col-md-6 col-sm-12">
@@ -40,7 +40,7 @@ export default class TestimonialsP2 extends Component {
           <h5>Leesa len</h5>
           <h6>DSS CEO &amp; Cofounder</h6>
           <i className="fa fa-quote-left" />
-          <p>The Businessbox service - it helps fill our Business, and increase our show up rate every single time.</p>
+          <p>The Pinnecs service - it helps fill our Business, and increase our show up rate every single time.</p>
         </div>
       </div>
       <div className="col-md-6 col-sm-12">
@@ -67,7 +67,7 @@ export default class TestimonialsP2 extends Component {
           <h5>Leesa len</h5>
           <h6>DSS CEO &amp; Cofounder</h6>
           <i className="fa fa-quote-left" />
-          <p>The Businessbox service - it helps fill our Business, and increase our show up rate every single time.</p>
+          <p>The Pinnecs service - it helps fill our Business, and increase our show up rate every single time.</p>
         </div>
       </div>
     </div>

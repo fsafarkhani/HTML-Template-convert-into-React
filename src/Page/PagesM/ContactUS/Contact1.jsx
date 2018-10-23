@@ -17,11 +17,17 @@ export default class Contact1 extends Component {
                             <div className="col-md-4">
                                 <div className="contact-p1-cont2">
                                     <address className="address-details-f">
-                                        25, Dist town Street, Logn <br />
-                                        California, US <br />
-                                        Phone: 800 123 3456 <br />
-                                        Fax: 800 123 3456 <br />
-                                        Email: <a href="mailto:info@Businessbox.com" className>info@Businessbox.com</a>
+                                    <div>
+                                        60m street, Setaqan, inside Dedeman Hotel
+                                        Erbil
+                                        Iraq-Kurdistan Region
+                                        <br /><br />
+                                        Tel: +964 (0) 750 751 2673
+                                        <br />
+                                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 751 104 8923
+                                        <br />
+                                        Email: <a href="info@Pinnecs.com" className>info@Pinnecs.com</a>
+                                        </div>
                                     </address>
                                     <ul className="list-inline social-icon-f top-data">
                                         <li><a href="#" target="_empty"><i className="fa top-social fa-facebook" style={{ height: 35, width: 35, lineHeight: 35 }} /></a></li>

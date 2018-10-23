@@ -12,7 +12,7 @@ export default class Footer extends Component {
                 <div className="col-md-3 col-sm-6 ">
                   <div><img src="img/logo-w.png" alt className="img-fluid" /></div>
                   <ul className="list-unstyled comp-desc-f">
-                    <li><p>Businessbox is a corporate business theme. You can customize what ever you think to make your website much better from your great ideas. </p></li> 
+                    <li><p>Pinnecs is a corporate business theme. You can customize what ever you think to make your website much better from your great ideas. </p></li> 
                   </ul><br /> 
                 </div>
                 {/* End About Us */}
@@ -51,11 +51,17 @@ export default class Footer extends Component {
                 <div className="col-md-3 col-sm-6">
                   <div className="heading-footer"><h2>Get In Touch</h2></div>
                   <address className="address-details-f">
-                    25, Dist town Street, Logn <br />
-                    California, US <br />
-                    Phone: 800 123 3456 <br />
-                    Fax: 800 123 3456 <br />
-                    Email: <a href="mailto:info@Businessbox.com" className>info@Businessbox.com</a>
+                  <div>
+                                        60m street, Setaqan, inside Dedeman Hotel
+                                        Erbil
+                                        Iraq-Kurdistan Region
+                                        <br /><br />
+                                        Tel: +964 (0) 750 751 2673
+                                        <br />
+                                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 751 104 8923
+                                        <br />
+                                        Email: <a href="info@Pinnecs.com" className>info@Pinnecs.com</a>
+                                        </div>
                   </address>  
                   <ul className="list-inline social-icon-f top-data">
                     <li><a href="#" target="_empty"><i className="fa top-social fa-facebook" /></a></li>
@@ -73,7 +79,7 @@ export default class Footer extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div id="footer-copyrights">
-                  <p>Copyrights © 2017 All Rights Reserved by Businessbox. <a href="#">Privacy Policy</a> <a href="#">Terms of Services</a></p>
+                  <p>Copyrights © 2017 All Rights Reserved by Pinnecs. <a href="#">Privacy Policy</a> <a href="#">Terms of Services</a></p>
                 </div>
               </div> 
             </div>

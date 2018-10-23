@@ -15,7 +15,7 @@ export default class Services extends Component {
                 <div className="service-h-desc">
                   <h3>We are Providing great Services</h3>
                   <div className="heading-border-light" /> 
-                  <p>Businessbox offer the full spectrum of services to help organizations work better. Everything from creating standards of excellence to training your people to work in more effective ways.</p>  
+                  <p>Pinnecs offer the full spectrum of services to help organizations work better. Everything from creating standards of excellence to training your people to work in more effective ways.</p>  
                   <div className="service-h-tab"> 
                     <nav className="nav nav-tabs" id="myTab" role="tablist">
                       <a className="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-expanded="true">Developing</a>

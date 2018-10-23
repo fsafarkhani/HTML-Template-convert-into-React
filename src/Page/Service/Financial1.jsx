@@ -12,7 +12,7 @@ export default class Financial1 extends Component {
               <div className="financial-p1-cont">    
                 <a href="#"> <b>Richtech Technology</b></a>  
                 <h3>Excellent Strategies For </h3>
-                <p>Businessbox will deliver value to all the stakeholders and will attain excellence and leadership through such delivery of value. We will strive to support the stakeholders in all activities related to us. Businessbox provide great things.Everyone defines success differently – as much as there are people, there are different opinions. Number one in our priority list is the success of our students, alumni and their employers.</p>     
+                <p>Pinnecs will deliver value to all the stakeholders and will attain excellence and leadership through such delivery of value. We will strive to support the stakeholders in all activities related to us. Pinnecs provide great things.Everyone defines success differently – as much as there are people, there are different opinions. Number one in our priority list is the success of our students, alumni and their employers.</p>     
                 <button className="btn btn-general btn-white" role="button">Contact Us</button>
               </div>
             </div>
@@ -29,7 +29,7 @@ export default class Financial1 extends Component {
               <div className="financial-p1-cont">    
                 <a href="#"> <b>Richtech Technology</b></a>  
                 <h3>Transfer Financial Services</h3>
-                <p>Businessbox will deliver value to all the stakeholders and will attain excellence and leadership through such delivery of value. We will strive to support the stakeholders in all activities related to us. Businessbox provide great things.Everyone defines success differently – as much as there are people, there are different opinions. Number one in our priority list is the success of our students, alumni and their employers.</p>     
+                <p>Pinnecs will deliver value to all the stakeholders and will attain excellence and leadership through such delivery of value. We will strive to support the stakeholders in all activities related to us. Pinnecs provide great things.Everyone defines success differently – as much as there are people, there are different opinions. Number one in our priority list is the success of our students, alumni and their employers.</p>     
                 <button className="btn btn-general btn-white" role="button">Contact Us</button>
               </div>
             </div>
