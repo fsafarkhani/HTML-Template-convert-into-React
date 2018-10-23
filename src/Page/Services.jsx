@@ -5,6 +5,7 @@ import Financial5 from '../Page/Service/Financial5';
 import Home from '../Page/Service/Home' ;
 import Financial6 from './Service/Financial6';
 import News from '../Component/News';
+import Contact from '../Component/Contact';
 
 
 export default class Services extends Component {
@@ -16,6 +17,7 @@ export default class Services extends Component {
       <Financial1></Financial1>
        <Financial5></Financial5>
        <Financial6></Financial6>
+       <Contact></Contact>
        <News></News>
        
  

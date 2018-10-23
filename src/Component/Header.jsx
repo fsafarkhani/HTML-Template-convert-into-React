@@ -47,15 +47,16 @@ export default class Header extends Component {
                     <a className="nav-link dropdown-toggle smooth-scroll" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a> 
                     <div className="dropdown-menu dropdown-cust" aria-labelledby="navbarDropdownMenuLink">
                       <a className="dropdown-item" href="/AboutUS">About Us</a>
-                      <a className="dropdown-item" href="/Career">Career Oprtunity</a>
+                      <a className="dropdown-item" href="/Careers">Career Oprtunity</a>
                       <a className="dropdown-item" href="/Team">Meet Our Team</a>
                       <a className="dropdown-item" href="/Faq">FAQ</a>
                       <a className="dropdown-item" href="/Testimonials">Testimonials</a>
                     </div>
                   </li>
                   <li className="nav-item"><a className="nav-link smooth-scroll" href="/services">Services</a></li> 
-                  <li className="nav-item dropdown">
-                    <a className="nav-link dropdown-toggle smooth-scroll" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admin Panel</a> 
+                   {/* Admin bar menu */}
+                     {/* <li className="nav-item dropdown">
+                      <a className="nav-link dropdown-toggle smooth-scroll" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admin Panel</a> 
                     <div className="dropdown-menu dropdown-cust" aria-labelledby="navbarDropdownMenuLink"> 
                       <a className="dropdown-item" target="_empty" href="admin/index.html">Dashboard</a> 
                       <a className="dropdown-item" target="_empty" href="admin/chart.html">Charts</a> 
@@ -65,7 +66,7 @@ export default class Header extends Component {
                       <a className="dropdown-item" target="_empty" href="admin/tables.html">Tables</a> 
                       <a className="dropdown-item" target="_empty" href="admin/invoice.html">Invoice</a> 
                     </div>
-                  </li>
+                  </li> */}
                   <li className="nav-item dropdown">
                     <a className="nav-link dropdown-toggle smooth-scroll" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a> 
                     <div className="dropdown-menu dropdown-cust" aria-labelledby="navbarDropdownMenuLink">

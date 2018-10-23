@@ -9,6 +9,9 @@ import Thought from '../Component/Thought';
 import Services from '../Component/Services';
 import Client from '../Component/Client';
 import News from '../Component/News';
+import Contact from '../Component/Contact';
+
+
 
 export default class HomePage extends Component {
     render() {
@@ -23,6 +26,7 @@ export default class HomePage extends Component {
                 <Thought></Thought>
                 <Services></Services>
                 <Client></Client>
+                <Contact></Contact>
                 <News></News>
             </div>
         )
