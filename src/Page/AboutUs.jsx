@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import News from '../../../Component/News';
+
 import HomeAbout from './HomeAbout';
 import About1 from './About1';
 import About2 from './About2';
