@@ -20,11 +20,11 @@ export default class Footer extends Component {
                 <div className="col-md-3 col-sm-6 ">
                   <div className="heading-footer"><h2>Useful Links</h2></div>
                   <ul className="list-unstyled link-list">
-                    <li><a href="about.html">About us</a><i className="fa fa-angle-right" /></li> 
-                    <li><a href="project.html">Project</a><i className="fa fa-angle-right" /></li> 
-                    <li><a href="careers.html">Career</a><i className="fa fa-angle-right" /></li> 
-                    <li><a href="faq.html">FAQ</a><i className="fa fa-angle-right" /></li> 
-                    <li><a href="contact.html">Contact us</a><i className="fa fa-angle-right" /></li> 
+                    <li><a href="/AboutUS">About us</a><i className="fa fa-angle-right" /></li> 
+                    <li><a href="/Project">Project</a><i className="fa fa-angle-right" /></li> 
+                    <li><a href="/Careers">Career</a><i className="fa fa-angle-right" /></li> 
+                    <li><a href="/Faq">FAQ</a><i className="fa fa-angle-right" /></li> 
+                    <li><a href="/ContactUS">Contact us</a><i className="fa fa-angle-right" /></li> 
                   </ul>
                 </div>
                 {/* End Recent list */}

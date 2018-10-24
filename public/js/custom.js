@@ -58,18 +58,18 @@ License URL: https://creativecommons.org/licenses/by/4.0/
 	    //     $(".navbar-toggle").click();
 	    // });
 
-	    // search bar
-        jQuery('.search').on("click", function () {
-        if(jQuery('.search-btn').hasClass('fa-search')){
-          jQuery('.search-open').fadeIn(500);
-          jQuery('.search-btn').removeClass('fa-search');
-          jQuery('.search-btn').addClass('fa-times');
-        } else {
-          jQuery('.search-open').fadeOut(500);
-          jQuery('.search-btn').addClass('fa-search');
-          jQuery('.search-btn').removeClass('fa-times');
-        }
-      });
+	//     // search bar
+    //     jQuery('.search').on("click", function () {
+    //     if(jQuery('.search-btn').hasClass('fa-search')){
+    //       jQuery('.search-open').fadeIn(500);
+    //       jQuery('.search-btn').removeClass('fa-search');
+    //       jQuery('.search-btn').addClass('fa-times');
+    //     } else {
+    //       jQuery('.search-open').fadeOut(500);
+    //       jQuery('.search-btn').addClass('fa-search');
+    //       jQuery('.search-btn').removeClass('fa-times');
+    //     }
+    //   });
 
       //fixed navbar
       var toggleAffix = function(affixElement, scrollElement, wrapper) {

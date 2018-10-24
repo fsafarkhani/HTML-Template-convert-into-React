@@ -20,10 +20,10 @@ export default class Shop1 extends Component {
           <a href="#" className="list-group-item">Cloths</a>
           <a href="#" className="list-group-item">Electronics</a>
         </div>
-        <div className="input-group ">
+         <div className="input-group ">
           <input type="text" className="form-control" id="inlineFormInputGroup" placeholder="Search Product" />
-          <div className="input-group-addon"><i className="fa fa-search" /></div>
-        </div>
+         {/* <div className="input-group-addon"><i className="fa fa-search" /></div>  */}
+        </div> 
         <div className="shop-p1-title">  
           <h3>Top Sellers</h3>
           <div className="heading-border-light" /> 

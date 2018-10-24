@@ -18,33 +18,33 @@ export default class Header extends Component {
                         <i className="fa fa-phone" /> Tel:+964(0)7507512673 -7511048923
                       </li>
                     </ul>
-                  </div> 
+                  </div>
                   <div className="col-md-5">
                     <ul className="list-inline top-data">
                       <li><a href="#" target="_empty"><i className="fa top-social fa-facebook" /></a></li>
                       <li><a href="#" target="_empty"><i className="fa top-social fa-twitter" /></a></li>
-                      <li><a href="#" target="_empty"><i className="fa top-social fa-google-plus" /></a></li> 
-                      <li><a href="#" className="log-top" data-toggle="modal" data-target="#login-modal">Login</a></li>  
+                      <li><a href="#" target="_empty"><i className="fa top-social fa-google-plus" /></a></li>
+                      <li><a href="#" className="log-top" data-toggle="modal" data-target="#login-modal">Login</a></li>
                     </ul>
                   </div>
                 </div>
               </div>
-            </div> 
-          </div> 
+            </div>
+          </div>
           {/* Navbar */}
           <nav className="navbar navbar-expand-lg navbar-light" id="mainNav" data-toggle="affix">
             <div className="container">
               <a className="navbar-brand smooth-scroll" href="index.html">
                 <img src="img/logo-s.png" alt="logo" />
-              </a> 
-              <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"> 
+              </a>
+              <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon" />
-              </button>  
+              </button>
               <div className="collapse navbar-collapse" id="navbarResponsive">
                 <ul className="navbar-nav ml-auto">
                   <li className="nav-item"><a className="nav-link smooth-scroll" href="/">Home</a></li>
                   <li className="nav-item dropdown">
-                    <a className="nav-link dropdown-toggle smooth-scroll" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a> 
+                    <a className="nav-link dropdown-toggle smooth-scroll" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
                     <div className="dropdown-menu dropdown-cust" aria-labelledby="navbarDropdownMenuLink">
                       <a className="dropdown-item" href="/AboutUS">About Us</a>
                       <a className="dropdown-item" href="/Careers">Career Oprtunity</a>
@@ -53,26 +53,26 @@ export default class Header extends Component {
                       <a className="dropdown-item" href="/Testimonials">Testimonials</a>
                     </div>
                   </li>
-                  <li className="nav-item"><a className="nav-link smooth-scroll" href="/services">Services</a></li> 
+                  <li className="nav-item"><a className="nav-link smooth-scroll" href="/services">Services</a></li>
                    {/* Admin bar menu */}
                      {/* <li className="nav-item dropdown">
-                      <a className="nav-link dropdown-toggle smooth-scroll" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admin Panel</a> 
-                    <div className="dropdown-menu dropdown-cust" aria-labelledby="navbarDropdownMenuLink"> 
-                      <a className="dropdown-item" target="_empty" href="admin/index.html">Dashboard</a> 
-                      <a className="dropdown-item" target="_empty" href="admin/chart.html">Charts</a> 
-                      <a className="dropdown-item" target="_empty" href="admin/email.html">Email</a> 
-                      <a className="dropdown-item" target="_empty" href="admin/faq.html">FAQ</a> 
-                      <a className="dropdown-item" target="_empty" href="admin/profile.html">Profile</a> 
-                      <a className="dropdown-item" target="_empty" href="admin/tables.html">Tables</a> 
-                      <a className="dropdown-item" target="_empty" href="admin/invoice.html">Invoice</a> 
+                      <a className="nav-link dropdown-toggle smooth-scroll" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admin Panel</a>
+                    <div className="dropdown-menu dropdown-cust" aria-labelledby="navbarDropdownMenuLink">
+                      <a className="dropdown-item" target="_empty" href="admin/index.html">Dashboard</a>
+                      <a className="dropdown-item" target="_empty" href="admin/chart.html">Charts</a>
+                      <a className="dropdown-item" target="_empty" href="admin/email.html">Email</a>
+                      <a className="dropdown-item" target="_empty" href="admin/faq.html">FAQ</a>
+                      <a className="dropdown-item" target="_empty" href="admin/profile.html">Profile</a>
+                      <a className="dropdown-item" target="_empty" href="admin/tables.html">Tables</a>
+                      <a className="dropdown-item" target="_empty" href="admin/invoice.html">Invoice</a>
                     </div>
                   </li> */}
                   <li className="nav-item dropdown">
-                    <a className="nav-link dropdown-toggle smooth-scroll" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a> 
+                    <a className="nav-link dropdown-toggle smooth-scroll" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
                     <div className="dropdown-menu dropdown-cust" aria-labelledby="navbarDropdownMenuLink">
                       <a className="dropdown-item" href="/List">News list layouts</a>
                       <a className="dropdown-item" href="/Grid">News grid layouts</a>
-                      <a className="dropdown-item" href="/PagesDetail">News Details</a> 
+                      <a className="dropdown-item" href="/PagesDetail">News Details</a>
                       <a className="dropdown-item" href="/Project">Project</a>
                       <a className="dropdown-item" href="/ContactUS">Contact Us</a>
                       {/* <a className="dropdown-item" href="/Comming">Comming Soon</a> */}
@@ -81,7 +81,7 @@ export default class Header extends Component {
                     </div>
                   </li>
                   <li className="nav-item dropdown">
-                    <a className="nav-link dropdown-toggle smooth-scroll" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Shop</a> 
+                    <a className="nav-link dropdown-toggle smooth-scroll" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Shop</a>
                     <div className="dropdown-menu dropdown-cust mega-menu" aria-labelledby="navbarDropdownMenuLink">
                       <div className="row">
                         <div className="col-md-5">
@@ -98,14 +98,14 @@ export default class Header extends Component {
                     </div>
                   </li>
                   <li>
-                    <i className="search fa fa-search search-btn" />
+                  {/* <i className="search fa fa-search search-btn" /> */}
                     <div className="search-open">
                       <div className="input-group animated fadeInUp">
                         <input type="text" className="form-control" placeholder="Search" aria-describedby="basic-addon2" />
                         <span className="input-group-addon" id="basic-addon2">Go</span>
                       </div>
                     </div>
-                  </li> 
+                  </li>
                   <li>
                     <div className="top-menubar-nav">
                       <div className="topmenu ">
@@ -120,26 +120,26 @@ export default class Header extends Component {
                                   <i className="fa fa-phone" /> Hotline: (1) 396 4587 99
                                 </li>
                               </ul>
-                            </div> 
+                            </div>
                             <div className="col-md-3">
                               <ul className="list-inline top-data">
                                 <li><a href="#" target="_empty"><i className="fa top-social fa-facebook" /></a></li>
                                 <li><a href="#" target="_empty"><i className="fa top-social fa-twitter" /></a></li>
-                                <li><a href="#" target="_empty"><i className="fa top-social fa-google-plus" /></a></li> 
-                                <li><a href="#" className="log-top" data-toggle="modal" data-target="#login-modal">Login</a></li>  
+                                <li><a href="#" target="_empty"><i className="fa top-social fa-google-plus" /></a></li>
+                                <li><a href="#" className="log-top" data-toggle="modal" data-target="#login-modal">Login</a></li>
                               </ul>
                             </div>
                           </div>
                         </div>
-                      </div> 
+                      </div>
                     </div>
                   </li>
-                </ul>  
+                </ul>
               </div>
             </div>
           </nav>
-        </header> 
-        
+        </header>
+
     )
   }
 }
