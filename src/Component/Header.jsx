@@ -101,9 +101,9 @@ export default class Header extends Component {
                   {/* <i className="search fa fa-search search-btn" /> */}
                     <div className="search-open">
                       <div className="input-group animated fadeInUp">
-                        <input type="text" className="form-control" placeholder="Search" aria-describedby="basic-addon2" />
-                        <span className="input-group-addon" id="basic-addon2">Go</span>
-                      </div>
+                         {/* <input type="text" className="form-control" placeholder="Search" aria-describedby="basic-addon2" /> */}
+                        {/* <span className="input-group-addon" id="basic-addon2">Go</span> */}
+                      </div> 
                     </div>
                   </li>
                   <li>
@@ -117,7 +117,7 @@ export default class Header extends Component {
                                   <i className="fa fa-envelope" /> Email: <a href="mailto:info@Pinnecs.com">info@Pinnecs.com</a>
                                 </li>
                                 <li>
-                                  <i className="fa fa-phone" /> Hotline: (1) 396 4587 99
+                                  <i className="fa fa-phone" />  Tel:+964(0)7507512673 -7511048923
                                 </li>
                               </ul>
                             </div>
