@@ -53,7 +53,7 @@ export default class TeatimonialP1 extends Component {
                 <div className="testimonial-author">
                   <p>
                     <strong>Rons Dan</strong>
-                    <span>CEO &amp; Founder - Pinnecs</span>
+                    <span>CEO &amp; Founder -  template</span>
                   </p>
                 </div>
               </div>

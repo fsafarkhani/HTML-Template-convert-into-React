@@ -12,7 +12,7 @@ export default class Footer extends Component {
                 <div className="col-md-3 col-sm-6 ">
                   <div><img src="img/logo-w.png" alt className="img-fluid" /></div>
                   <ul className="list-unstyled comp-desc-f">
-                    <li><p>Pinnecs is a corporate business theme. You can customize what ever you think to make your website much better from your great ideas. </p></li> 
+                    <li><p> template is a corporate business theme. You can customize what ever you think to make your website much better from your great ideas. </p></li> 
                   </ul><br /> 
                 </div>
                 {/* End About Us */}
@@ -52,21 +52,19 @@ export default class Footer extends Component {
                   <div className="heading-footer"><h2>Get In Touch</h2></div>
                   <address className="address-details-f">
                   <div>
-                                        60m street, Setaqan, inside Dedeman Hotel
-                                        Erbil
-                                        Iraq-Kurdistan Region
+                                        https://www.linkedin.com/in/fereshteh-safarkhani/
                                         <br /><br />
-                                        Tel: +964 (0) 750 751 2673
+                                        Tel: +989355011335
                                         <br />
-                                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 751 104 8923
+                                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
                                         <br />
-                                        Email: <a href="info@Pinnecs.com" className>info@Pinnecs.com</a>
+                                        <a href="mailto:fereshteh.safarkhani@gmail.com">Email: fereshteh.safarkhani@gmail.com <i className="fa fa-envelope" /></a>
+
                                         </div>
                   </address>  
                   <ul className="list-inline social-icon-f top-data">
-                    <li><a href="#" target="_empty"><i className="fa top-social fa-facebook" /></a></li>
-                    <li><a href="#" target="_empty"><i className="fa top-social fa-twitter" /></a></li>
-                    <li><a href="#" target="_empty"><i className="fa top-social fa-google-plus" /></a></li> 
+                  <li><a title="skype" href="skype:fsafarkhani?call" target="_empty"><i className="fa top-social fa-skype" /></a></li>
+
                   </ul>
                 </div>
                 {/* End Latest Tweets */}
@@ -79,7 +77,7 @@ export default class Footer extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div id="footer-copyrights">
-                  <p>Copyrights © 2017 All Rights Reserved by Pinnecs. <a href="#">Privacy Policy</a> <a href="#">Terms of Services</a></p>
+                  <p>Copyrights © 2017 All Rights Reserved by me. <a href="#">Privacy Policy</a> <a href="#">Terms of Services</a></p>
                 </div>
               </div> 
             </div>

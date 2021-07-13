@@ -12,18 +12,17 @@ export default class Header extends Component {
                   <div className="col-md-7">
                     <ul className="list-inline top-contacts">
                       <li>
-                        <i className="fa fa-envelope" /> Email: <a href="mailto:info@Pinnecs.com">info@Pinnecs.com</a>
+                        <i className="fa fa-envelope" /> Email: <a href="mailto:fereshteh.safarkhani@gmail.com">fereshteh.safarkhani@gmail.com</a>
                       </li>
                       <li>
-                        <i className="fa fa-phone" /> Tel:+964(0)7507512673 -7511048923
+                        <i className="fa fa-phone" />  Tel:+989355011335
                       </li>
                     </ul>
                   </div>
                   <div className="col-md-5">
                     <ul className="list-inline top-data">
-                      <li><a href="#" target="_empty"><i className="fa top-social fa-facebook" /></a></li>
-                      <li><a href="#" target="_empty"><i className="fa top-social fa-twitter" /></a></li>
-                      <li><a href="#" target="_empty"><i className="fa top-social fa-google-plus" /></a></li>
+                    <li><a title="skype" href="skype:fsafarkhani?call" target="_empty"><i className="fa top-social fa-skype" /></a></li>
+
                       <li><a href="#" className="log-top" data-toggle="modal" data-target="#login-modal">Login</a></li>
                     </ul>
                   </div>
@@ -114,19 +113,17 @@ export default class Header extends Component {
                             <div className="col-md-9">
                               <ul className="list-inline top-contacts">
                                 <li>
-                                  <i className="fa fa-envelope" /> Email: <a href="mailto:info@Pinnecs.com">info@Pinnecs.com</a>
+                                  <i className="fa fa-envelope" /> Email: <a href="mailto:fereshteh.safarkhani@gmail.com">fereshteh.safarkhani@gmail.com</a>
                                 </li>
                                 <li>
-                                  <i className="fa fa-phone" />  Tel:+964(0)7507512673 -7511048923
+                                  <i className="fa fa-phone" />   Tel:+989355011335
                                 </li>
                               </ul>
                             </div>
                             <div className="col-md-3">
                               <ul className="list-inline top-data">
-                                <li><a href="#" target="_empty"><i className="fa top-social fa-facebook" /></a></li>
-                                <li><a href="#" target="_empty"><i className="fa top-social fa-twitter" /></a></li>
-                                <li><a href="#" target="_empty"><i className="fa top-social fa-google-plus" /></a></li>
-                                <li><a href="#" className="log-top" data-toggle="modal" data-target="#login-modal">Login</a></li>
+                              <li><a title="skype" href="skype:fsafarkhani?call" target="_empty"><i className="fa top-social fa-skype" /></a></li>
+
                               </ul>
                             </div>
                           </div>

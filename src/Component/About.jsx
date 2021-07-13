@@ -9,7 +9,7 @@ export default class About extends Component {
               <div className="col-md-12">
                 <h1 className="wow fadeInUp">We committed to helping</h1>
                 <div className="heading-border" />
-                <p className="wow fadeInUp" data-wow-delay="0.4s">Pinnecs will deliver value to all the stakeholders and will attain excellence and leadership through such delivery of value. We will strive to support the stakeholders in all activities related to us. Pinnecs provide great things.</p>
+                <p className="wow fadeInUp" data-wow-delay="0.4s"> template will deliver value to all the stakeholders and will attain excellence and leadership through such delivery of value. We will strive to support the stakeholders in all activities related to us.  template provide great things.</p>
                 <div className="title-but"><button className="btn btn-general btn-green" role="button">Read More</button></div>
               </div>
             </div>

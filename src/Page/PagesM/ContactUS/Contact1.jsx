@@ -18,22 +18,18 @@ export default class Contact1 extends Component {
                                 <div className="contact-p1-cont2">
                                     <address className="address-details-f">
                                     <div>
-                                        60m street, Setaqan, inside Dedeman Hotel
-                                        Erbil
-                                        Iraq-Kurdistan Region
+                                        https://www.linkedin.com/in/fereshteh-safarkhani/
                                         <br /><br />
-                                        Tel: +964 (0) 750 751 2673
+                                        Tel: +989355011335
                                         <br />
-                                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 751 104 8923
+                                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
                                         <br />
-                                        Email: <a href="info@Pinnecs.com" className>info@Pinnecs.com</a>
+                                        Email: <a href="fereshteh.safarkhani@gmail.com" className>fereshteh.safarkhani@gmail.com</a>
                                         </div>
                                     </address>
                                     <ul className="list-inline social-icon-f top-data">
-                                        <li><a href="#" target="_empty"><i className="fa top-social fa-facebook" style={{ height: 35, width: 35, lineHeight: 35 }} /></a></li>
-                                        <li><a href="#" target="_empty"><i className="fa top-social fa-twitter" style={{ height: 35, width: 35, lineHeight: 35 }} /></a></li>
-                                        <li><a href="#" target="_empty"><i className="fa top-social fa-google-plus" style={{ height: 35, width: 35, lineHeight: 35 }} /></a></li>
-                                    </ul>
+                                    <li><a title="اسکایپ" href="skype:fsafarkhani?call" target="_empty"><i className="fa top-social fa-skype" /></a></li>
+ </ul>
                                 </div>
                             </div>
                         </div>

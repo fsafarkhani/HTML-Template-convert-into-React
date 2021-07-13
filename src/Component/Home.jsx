@@ -16,7 +16,9 @@ export default class Home extends Component {
                         <span className="wrap" /></a></span> </h1>        
                   <h3>The next big idea is waiting for its next big changer</h3>
                 </hgroup>
+                <a href="/ContactUs">
                 <button className="btn btn-general btn-green wow fadeInUp" role="button">Contact Now</button>
+                </a>
               </div>           
             </div> 
           </div> 

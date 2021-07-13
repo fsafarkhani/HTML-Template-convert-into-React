@@ -25,7 +25,7 @@ export default class Career1 extends Component {
         <div className="career-p1-desc">
           <h4>We Make from the Best</h4>
           <div className="heading-border-light" />
-          <p>We are a bunch of people who embody the united spirit of our Team Adventure. While you are working your hardest on opportunities that will define your career, Pinnecs makes sure your environment provides for you</p> 
+          <p>We are a bunch of people who embody the united spirit of our Team Adventure. While you are working your hardest on opportunities that will define your career,  template makes sure your environment provides for you</p> 
           <p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years.</p>
           <ul>
             <li><i className="fa fa-arrow-circle-o-right" /> Champion the Mission.</li>

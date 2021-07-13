@@ -19,7 +19,7 @@ export default class Client extends Component {
                   <h5>Leesa len</h5>
                   <h6>DSS CEO &amp; Cofounder</h6>
                   <i className="fa fa-quote-left" />
-                  <p>The Pinnecs service - it helps fill our Business, and increase our show up rate every single time.</p>
+                  <p>The  template service - it helps fill our Business, and increase our show up rate every single time.</p>
                 </div>
               </div>
               <div className="col-md-6 col-sm-12">
